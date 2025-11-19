@@ -1,0 +1,4 @@
+# If your script only uses built-in modules, leave this empty or add:
+# (Optional) pyinstaller==6.0
+
+pyinstaller
